@@ -7,7 +7,7 @@ Bem-vindo(a) ao $\color{orange}{\textsf{Meu Repositório de Resoluções dos Des
 | Status | Desafio | Nome |                        Deploy                        |     Código-fonte |
 | :----: | :-----: | :--: | :-------------------------------------------------: |  :----------: |
 |   ✅   |   01    | Blog | [Visitar](https://blog-codelab.vercel.app) |   [Acessar](https://github.com/joaoclaudioprestes/blog-codelab)  |
-|   ✅   |   02    | Jordan Shoes  | [Visitar](jordan-shoes-codelab.vercel.app) |   [Acessar](https://github.com/joaoclaudioprestes/jordan-shoes-codelab)  |
+|   ✅   |   02    | Jordan Shoes  | [Visitar](https://jordan-shoes-codelab.vercel.app) |   [Acessar](https://github.com/joaoclaudioprestes/jordan-shoes-codelab)  |
 
 ### Agradecimentos 🙏
 
