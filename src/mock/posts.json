@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "O que é linguagem de programação? Conheça as principais",
+      "date": "17 de ago, 2024",
+      "description": "Uma das mais populares vertentes da tecnologia da informação, a área de programação segue tendo muita demanda de trabalho justamente pela velocidade com que dispositivos tecnológicos vêm avançando."
+    },
+    {
+      "id": 2,
+      "title": "GitHub agora permite fazer login sem precisar de senha",
+      "date": "12 de jul, 2024",
+      "description": "O GitHub anunciou nesta quarta-feira (12) o acesso a partir das passkeys, método de autenticação sem senhas. A novidade está disponível em uma versão beta pública e pode substituir a autenticação em dois fatores."
+    },
+    {
+      "id": 3,
+      "title": "Por que os hiperlinks são azuis em sua maioria?",
+      "date": "21 de jun, 2024",
+      "description": "Quem navega na internet, certamente já percebeu que ela conta com diversos recursos para tornar a nossa vida mais fácil. Entre essas opções podemos mencionar os hiperlinks – uma palavra ou termo clicável que direciona o leitor."
+    },
+    {
+      "id": 4,
+      "title": "O Futuro da Computação Quântica",
+      "date": "22 de mai, 2024",
+      "description": "A computação quântica promete revolucionar a tecnologia como a conhecemos. Entenda os conceitos básicos e os desafios dessa tecnologia emergente."
+    },
+    {
+      "id": 5,
+      "title": "Segurança Cibernética: Como Proteger Seus Dados",
+      "date": "10 de abr, 2024",
+      "description": "Com o aumento das ameaças online, a segurança cibernética se tornou crucial. Veja dicas e práticas para proteger seus dados pessoais e corporativos."
+    },
+    {
+      "id": 6,
+      "title": "Inteligência Artificial: Impactos na Sociedade",
+      "date": "28 de mar, 2024",
+      "description": "A inteligência artificial está transformando diversos setores. Descubra como essa tecnologia está impactando a sociedade e quais são suas implicações futuras."
+    },
+    {
+      "id": 7,
+      "title": "Blockchain: Mais que Criptomoedas",
+      "date": "15 de fev, 2024",
+      "description": "Embora conhecida principalmente pelo Bitcoin, a tecnologia blockchain tem muitas outras aplicações. Saiba como ela pode ser usada em diversas indústrias."
+    },
+    {
+      "id": 8,
+      "title": "Desenvolvimento de Jogos: Da Ideia ao Produto Final",
+      "date": "3 de jan, 2024",
+      "description": "Criar um jogo vai além de apenas programar. Conheça as etapas do desenvolvimento de jogos e as habilidades necessárias para transformar uma ideia em um produto final."
+    }
+  ]
+}

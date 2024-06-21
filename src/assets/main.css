@@ -1,0 +1,18 @@
+@import "./base.css";
+
+#app {
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-size: 62.5%;
+  margin: 0;
+  padding: 0;
+  background-color: var(--dark-10);
+}
